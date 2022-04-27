@@ -166,6 +166,8 @@ background: red;
     width: 120px;
     height: 120px;
     background-image: url(../images/logop.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .logo_agile span {
     color: #FF5722;
