@@ -162,7 +162,7 @@ background: red;
 /*-- logo --*/
 .logo_agile {
     text-align: center;
-    background-color: darkred;
+    background-color: transparent;
     width: 120px;
 }
 .logo_agile span {
@@ -4882,6 +4882,3 @@ input[type="radio"], input[type="checkbox"] {
 }
 
 /*--//responsive--*/
-.logo {
-    background-color: darkcyan;
-}
