@@ -4882,3 +4882,6 @@ input[type="radio"], input[type="checkbox"] {
 }
 
 /*--//responsive--*/
+.logo {
+    background-color: darkcyan;
+}
